@@ -1,0 +1,22 @@
+21
+I Ale1 35
+P
+I Ale2 40
+I Ale3 45
+I Ale4 50
+I Ale5 66
+I Ale6 66
+P
+M Ale1 100
+I Alee 37
+I Ale7 88
+D
+I Ale8 99
+P
+I Ale10 103
+L
+I Ale11 101
+P
+I Ale12 120
+P
+M Ale1 1

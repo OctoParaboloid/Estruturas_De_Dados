@@ -1,0 +1,28 @@
+26
+I Spock 5
+I Harry 10
+I Zorro 1
+P
+M Zorro 15
+L
+I Fernando 30
+P
+L
+I Felipe 40
+I Lucas 50
+I Amanda 45
+I Ana 15
+I Ana 15
+L
+M Amanda 35
+M Flep 56
+P
+D
+I Flep 37
+I Vlad 74
+I Udyr 9
+I Natalia 0
+L
+D
+P
+L
